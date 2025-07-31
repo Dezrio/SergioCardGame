@@ -1,0 +1,6 @@
+@SergioCardGameASP_HostAddress = http://localhost:5065
+
+GET {{SergioCardGameASP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
